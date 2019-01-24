@@ -6,7 +6,9 @@ div {
     padding: 10px;
 }
 p {
-    padding: 5px;
+    /*padding: 5px;*/
+    background: wheat;
+    border: solid 1px black;
 }
 a {
     border: 1px solid red;
@@ -16,4 +18,9 @@ a {
 div.dimension {
     min-width: 250px;
     max-width: 400px;
+    background: blue;
+    /*Arriba, derecha, abajo, izquierda con las menecillas del reloj*/
+    margin: 20px 50px 100px 30px;
+    padding: 25px 30px;
 }
+
