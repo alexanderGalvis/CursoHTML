@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="920225d5-581c-4a02-9e8f-b28915f5909d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Display/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Display/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modeloCaja/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/modeloCaja/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modeloCaja/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/modeloCaja/main.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,19 +20,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modeloCaja/index.html">
+        <entry file="file://$PROJECT_DIR$/Display/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            <state relative-caret-position="207">
+              <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/modeloCaja/main.css">
+        <entry file="file://$PROJECT_DIR$/Display/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+            <state relative-caret-position="161">
+              <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -41,6 +43,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -53,8 +56,10 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/main.css" />
         <option value="$PROJECT_DIR$/selectores/index.html" />
-        <option value="$PROJECT_DIR$/modeloCaja/index.html" />
         <option value="$PROJECT_DIR$/modeloCaja/main.css" />
+        <option value="$PROJECT_DIR$/modeloCaja/index.html" />
+        <option value="$PROJECT_DIR$/Display/index.html" />
+        <option value="$PROJECT_DIR$/Display/main.css" />
       </list>
     </option>
   </component>
@@ -81,6 +86,11 @@
             <path>
               <item name="CursoHTML5" type="b2602c69:ProjectViewProjectNode" />
               <item name="CursoHTML5" type="462c0819:PsiDirectoryNode" />
+              <item name="Display" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CursoHTML5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CursoHTML5" type="462c0819:PsiDirectoryNode" />
               <item name="modeloCaja" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -92,6 +102,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -126,12 +137,12 @@
       <workItem from="1548172374211" duration="861000" />
       <workItem from="1548191495242" duration="3352000" />
       <workItem from="1548259896757" duration="5532000" />
-      <workItem from="1548350689604" duration="956000" />
+      <workItem from="1548350689604" duration="1638000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10701000" />
+    <option name="totallyTimeSpent" value="11383000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1448" y="-137" width="1456" height="876" extended-state="6" />
@@ -197,17 +208,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modeloCaja/index.html">
+    <entry file="file://$PROJECT_DIR$/modeloCaja/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        <state relative-caret-position="92">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modeloCaja/main.css">
+    <entry file="file://$PROJECT_DIR$/modeloCaja/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+        <state relative-caret-position="161">
+          <caret line="7" column="50" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Display/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Display/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
         </state>
       </provider>
     </entry>
