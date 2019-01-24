@@ -1,0 +1,46 @@
+body {
+    font-size: 16px;
+}
+header h2, h3 {
+    color: darkorange;
+}
+
+p {
+    color: red;
+}
+
+/*
+El p es opcional se usas para los ID
+*/
+p#azul {
+    color: aqua;
+}
+.prueba {
+    color: green;
+}
+.grande {
+    font-size: 20px;
+}
+/* Modifica todo lo que este despues de otro */
+p+p {
+    font-weight: bolder;
+}
+div > p {
+    color: blueviolet;
+}
+p ~ p {
+    color: brown;
+}
+/* Cambia es estilo a todos los h2 que tengan el atributo title */
+h2[title] {
+    color: chartreuse;
+}
+/*Este sobreescribe el anterior - busca la palabra del en los atributos title*/
+h2[title ~= "del"] {
+    color: cornflowerblue;
+}
+h2[lang |= "es"]{
+    color: blue;
+}
+
+

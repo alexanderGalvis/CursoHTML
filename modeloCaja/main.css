@@ -1,0 +1,19 @@
+div {
+    width: 50%;
+    height: 100px;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 10px;
+}
+p {
+    padding: 5px;
+}
+a {
+    border: 1px solid red;
+    padding: 15px;
+}
+
+div.dimension {
+    min-width: 250px;
+    max-width: 400px;
+}
